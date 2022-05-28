@@ -1,1 +1,0 @@
-# python-analytics-with-mahendra
